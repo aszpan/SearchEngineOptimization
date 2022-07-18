@@ -40,9 +40,8 @@ body {
     font-size: 20px;
 }
 
-nav {
+.header section ul {
     list-style-type: none;
-    
 }
 
 .header section ul li {
