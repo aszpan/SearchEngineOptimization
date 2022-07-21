@@ -1,6 +1,6 @@
 ## Project Page:
 ```
-[Mock Social Solutions Services Website](https://aszpan.github.io/challenge01/)
+[Mock Social Solutions Services Website](https://www.google.com)
 ```
 ## User Story
 
