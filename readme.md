@@ -1,6 +1,8 @@
 ## Project Page:
 ```
-Project page is: [Mock Social Solutions Services Website]:https://aszpan.github.io/challenge01/
+
+Project page is: [Mock Social Solutions Services Website](http://aszpan.github.io/challenge01/)
+
 ```
 ## User Story
 
